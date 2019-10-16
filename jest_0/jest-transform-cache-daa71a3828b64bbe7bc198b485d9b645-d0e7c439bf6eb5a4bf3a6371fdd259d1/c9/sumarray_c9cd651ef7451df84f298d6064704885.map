@@ -1,0 +1,1 @@
+{"version":3,"sources":["sum-array.js"],"names":["module","exports","input","reduce","sum","v"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAkBC,KAAD,IAAWA,KAAK,CAACC,MAAN,CAAa,CAACC,GAAD,EAAMC,CAAN,KAAYD,GAAG,GAAGC,CAA/B,EAAkC,CAAlC,CAA5B","sourcesContent":["module.exports = (input) => input.reduce((sum, v) => sum + v, 0);\n\n"]}
